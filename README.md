@@ -1,6 +1,5 @@
 # Let's write the readme content to a .txt file.
 
-readme_content = """
 # Automation Scripts
 
 This repository contains three automation scripts designed to streamline processes for LinkedIn message handling and connection request acceptance.
